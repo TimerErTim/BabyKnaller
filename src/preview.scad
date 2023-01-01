@@ -12,5 +12,4 @@ module knaller_inner_preview(off = 0) {
     }
 }
 
-//knaller_inner_preview(body_radius);
-knaller();
+knaller_inner_preview(body_radius);

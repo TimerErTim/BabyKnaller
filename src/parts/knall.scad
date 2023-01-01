@@ -46,6 +46,4 @@ module knaller() {
 
         translate([0, - width / 2, height + shell_thickness]) rotate([0, 180, 0]) cover();
     }
-
-    translate([0, width + 5, 0]) cover();
 }
